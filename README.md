@@ -1,7 +1,5 @@
 # NeSteppedAnimation: Stepped Animation Plugin for Unreal Engine
 
-## Links:
-
 [Discord](https://discord.gg/VqTKJJHw) - Join the Nevarok community on Discord for discussions, support, and updates.
 
 [Youtube](https://www.youtube.com/@nevarok) - Watch tutorials, demos, and updates on Nevarok's YouTube channel.
