@@ -44,12 +44,12 @@ Once the plugin is installed and enabled, you can start using it in your animati
 
 2. **Add the Stepped Animation Node:**
     - In the Animation Graph, right-click to open the context menu.
-    - Search for `NeSteppedAnimation` and select `NeSteppedAnimation Node`.
-    - Connect the `NeSteppedAnimation Node` to your animation network as desired.
+    - Search for `Stepped Animation` and select `Stepped Animation Node`.
+    - Connect the `Stepped Animation Node` to your animation network as desired.
 
 ### Configuring the Node
 
-The `NeSteppedAnimation` node has several configurable properties:
+The `Stepped Animation` node has several configurable properties:
 
 - **Frames Per Second (FPS):**
     - Determines the number of frames per second for the stepped animation.
@@ -67,7 +67,7 @@ The `NeSteppedAnimation` node has several configurable properties:
 ### Example Setup
 
 1. **Basic Setup:**
-    - Add a `NeSteppedAnimation` node in your animation blueprint.
+    - Add a `Stepped Animation` node in your animation blueprint.
     - Connect the node to the desired animation pose.
 
 2. **Configure Properties:**
