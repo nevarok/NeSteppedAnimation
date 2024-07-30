@@ -1,12 +1,12 @@
 # NeSteppedAnimation: Stepped Animation Plugin for Unreal Engine
 
-[Discord](https://discord.gg/VqTKJJHw) - Join the Nevarok community on Discord for discussions, support, and updates.
-
-[Youtube](https://www.youtube.com/@nevarok) - Watch tutorials, demos, and updates on Nevarok's YouTube channel.
-
 [Documentation](https://nevarok.com/ne-stepped-animation/index.html) - Access documentation for the NeSteppedAnimation plugin.
 
 [Support](https://nevarok.com/ne-stepped-animation/contributing/index.html) - Find information on how to contribute and get support for the NeSteppedAnimation plugin.
+
+[Discord](https://discord.gg/VqTKJJHw) - Join the Nevarok community on Discord for discussions, support, and updates.
+
+[Youtube](https://www.youtube.com/@nevarok) - Watch tutorials, demos, and updates on Nevarok's YouTube channel.
 
 ## Introduction
 
@@ -72,11 +72,7 @@ The `NeSteppedAnimation` node has several configurable properties:
 
 2. **Configure Properties:**
     - Set the `Frames Per Second` to achieve the desired stepping effect.
-    - Adjust the `Delta Time Multiplier` to control the animation speed.
+    - Adjust the `Delta Time Multiplier` to control the frequency.
     - Enable or disable `Step Root Location` and `Step Root Rotation` based on your needs.
-
-## Support
-
-For support, please visit the [support page](ne-stepped-animation/contributing/index,md).
 
 ---
