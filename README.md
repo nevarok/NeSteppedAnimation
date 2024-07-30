@@ -3,8 +3,12 @@
 ## Links:
 
 [Discord](https://discord.gg/VqTKJJHw) - Join the Nevarok community on Discord for discussions, support, and updates.
+
 [Youtube](https://www.youtube.com/@nevarok) - Watch tutorials, demos, and updates on Nevarok's YouTube channel.
+
 [Documentation](https://nevarok.com/ne-stepped-animation/index.html) - Access documentation for the NeSteppedAnimation plugin.
+
+[Support](https://nevarok.com/ne-stepped-animation/contributing/index.html) - Find information on how to contribute and get support for the NeSteppedAnimation plugin.
 
 ## Introduction
 
@@ -54,7 +58,7 @@ The `NeSteppedAnimation` node has several configurable properties:
     - Lower values result in a choppier animation with more noticeable steps.
 
 - **Delta Time Multiplier:**
-    - A multiplier applied to the delta time, allowing you to speed up or slow down the animation.
+    - A multiplier is applied to the delta time, allowing you to speed up or slow down the step frequency.
 
 - **Step Root Location:**
     - If enabled, the root location will be stepped.
