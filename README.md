@@ -44,7 +44,7 @@ Once the plugin is installed and enabled, you can start using it in your animati
 
 2. **Add the Stepped Animation Node:**
     - In the Animation Graph, right-click to open the context menu.
-    - Search for `Stepped Animation` and select `Stepped Animation Node`.
+    - Search for `Stepped Animation` or navigate to `Nevarok > Animation` and select `Stepped Animation Node`.
     - Connect the `Stepped Animation Node` to your animation network as desired.
 
 ### Configuring the Node
