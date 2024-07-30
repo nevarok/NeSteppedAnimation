@@ -1,5 +1,7 @@
 # NeSteppedAnimation: Stepped Animation Plugin for Unreal Engine
 
+---
+
 [Documentation](https://nevarok.com/ne-stepped-animation/index.html) - Access documentation for the NeSteppedAnimation plugin.
 
 [Support](https://nevarok.com/ne-stepped-animation/contributing/index.html) - Find information on how to contribute and get support for the NeSteppedAnimation plugin.
