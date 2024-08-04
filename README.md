@@ -2,7 +2,7 @@
 
 ---
 
-[Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/nesteppedanimation-stepped-animation-for-unreal-engine)
+[Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/nesteppedanimation-stepped-animation-for-unreal-engine) - Visit the Unreal Engine Marketplace to explore the NeSteppedAnimation plugin.
 
 [Documentation](https://nevarok.com/ne-stepped-animation/index.html) - Access documentation for the NeSteppedAnimation plugin.
 
