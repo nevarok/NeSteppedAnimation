@@ -2,6 +2,8 @@
 
 ---
 
+[Unreal Engine Marketplace](https://www.unrealengine.com/marketplace/en-US/product/nesteppedanimation-stepped-animation-for-unreal-engine)
+
 [Documentation](https://nevarok.com/ne-stepped-animation/index.html) - Access documentation for the NeSteppedAnimation plugin.
 
 [Support](https://nevarok.com/ne-stepped-animation/contributing/index.html) - Find information on how to contribute and get support for the NeSteppedAnimation plugin.
@@ -19,7 +21,7 @@
 To install the NeSteppedAnimation plugin, follow these steps:
 
 1. **Purchase the Plugin:**
-    - Visit the Unreal Engine Marketplace and search for "NeSteppedAnimation."
+    - Use __[link](https://www.unrealengine.com/marketplace/en-US/product/nesteppedanimation-stepped-animation-for-unreal-engine)__ or visit the Unreal Engine Marketplace and search for "NeSteppedAnimation."
     - Purchase the plugin from the Marketplace.
 
 2. **Install through Epic Games Launcher:**
