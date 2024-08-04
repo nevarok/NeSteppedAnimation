@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.unrealengine.com/marketplace/en-US/product/nesteppedanimation-stepped-animation-for-unreal-engine">
+    <img src="https://nevarok.com/ne-stepped-animation/images/stepped-animation-thumbnail.png" width="100%" alt="NeSteppedAnimation: Stepped Animation Plugin for Unreal Engine">
+  </a>
+</p>
+
 # NeSteppedAnimation: Stepped Animation Plugin for Unreal Engine
 
 ---
